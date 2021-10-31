@@ -1,0 +1,17 @@
+D:\c#project\茗品销售管理系统\project\project\bin\Debug\project.exe.config
+D:\c#project\茗品销售管理系统\project\project\bin\Debug\project.exe
+D:\c#project\茗品销售管理系统\project\project\bin\Debug\project.pdb
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.Form1.resources
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.Properties.Resources.resources
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.exe
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.pdb
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.superuser.resources
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.user.resources
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.regesit.resources
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.house.resources
+D:\c#project\茗品销售管理系统\project\project\obj\Debug\project.buy.resources
+D:\c#程序设计\8-孙子晋，刘金宝，张秩\茗品销售管理系统\project\project\bin\Debug\project.exe.config
+D:\c#程序设计\8-孙子晋，刘金宝，张秩\茗品销售管理系统\project\project\obj\Debug\project.exe
+D:\c#程序设计\8-孙子晋，刘金宝，张秩\茗品销售管理系统\project\project\obj\Debug\project.pdb
